@@ -1,0 +1,14 @@
+ul li {
+	list-style: none;
+	color: white;
+}
+
+.a{
+	font-family: 'Poppins', sans-serif;
+	font-style: unset;
+	color: $colortitulos;
+	&:hover{
+		color: $colortitulos;
+	}
+}
+
